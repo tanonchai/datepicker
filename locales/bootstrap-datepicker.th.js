@@ -8,8 +8,7 @@
 	$.fn.datepicker.dates['en-th'] = 
 	// en-en.th - english language with smart thai-year input (2540-2569) conversion 
 	$.fn.datepicker.dates['en-en.th'] = 
-							$.fn.datepicker.dates['en'];
-	
+	$.fn.datepicker.dates['en'];	
 	// th-th - thai language with thai-year
 	$.fn.datepicker.dates['th-th'] =
 	$.fn.datepicker.dates['th'] = {
